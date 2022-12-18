@@ -3,7 +3,7 @@
  * main - starting point
  * Description - print out data size of intrsinc datatypes
  *
- * Return 0
+ * Return: 0
  */
 int main(void)
 {
