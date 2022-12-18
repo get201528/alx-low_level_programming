@@ -2,7 +2,8 @@
 /**
  *main - Entry point
  *Description - the program prints using puts function
- *Return 0
+ *
+ *Return: 0
  */
 int main(void)
 {
