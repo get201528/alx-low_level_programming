@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
  * main - entry point
  * Description: a function thar print if a random number is postive ot negative
- * @n: an integer variable
  * Return: 0
  */
 int main(void)
