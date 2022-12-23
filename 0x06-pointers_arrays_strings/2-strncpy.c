@@ -14,7 +14,7 @@ char *_stncpy(char *dest, char *src, int n)
 	j = 0;
 	while (j < n && src[j] != '\0')
 	{
-		dest[j] = src[i];
+		dest[j] = src[j];
 		j++;
 	}
 	while (j < n)
