@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _strbrk - search a string for any of a set of bytes
+ * _strpbrk - search a string for any of a set of bytes
  * @s: The string to be searched.
- * @accept: Teh set of bytes to be searched for .
+ * @accept: The set of bytes to be searched for .
  * Return: if a set is matched - a pointer to the matched byte.
  * if no set is matched - NULL
  */
