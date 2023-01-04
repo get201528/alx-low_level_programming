@@ -26,5 +26,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	putchar(0);
+	return (0);
 }
